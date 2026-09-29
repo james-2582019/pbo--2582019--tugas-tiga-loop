@@ -143,8 +143,5 @@ public class TigaLoop {
          */
 
         scanner.close();
-
-
-
     }
 }
